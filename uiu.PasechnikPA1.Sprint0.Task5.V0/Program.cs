@@ -1,5 +1,5 @@
 ﻿using Tyuiu.PasechnikPA1.Sprint0.Task5.V0.Lib;
-namespace uiu.PasechnikPA1.Sprint0.Task5.V0
+namespace Tyuiu.PasechnikPA1.Sprint0.Task5.V0
 {
     internal class Program
     {
